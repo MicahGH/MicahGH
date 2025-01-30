@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white" alt="JIRA" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Retool-356CF2?logo=retool&logoColor=white" alt="Retool" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
 </div>
 
 ## 🌍 **Languages**
