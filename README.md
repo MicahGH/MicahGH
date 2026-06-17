@@ -1,8 +1,8 @@
-<p align="center">¡Bienvenido/a a mi perfil!</p>
+<h1 align="center">👋 ¡Bienvenido/a a mi perfil!</h1>
 <p align="center">Willkommen auf meinem Profil!</p>
-<p align="center">Welcome to my profile!</p>
 <p align="center">Bemvindo/a ao meu perfil!</p>
 <p align="center">Croeso i fy mhroffil!</p>
+<p align="center">Welcome to my profile!</p>
 
 ## 🧑‍💻 **About me**
 <h3 align="center">Developer with a big love for learning and resolving any kind of problems</h3>
@@ -75,4 +75,9 @@
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <span><img src="https://flagcdn.com/w320/de.png" alt="German" width="30" /> Deutsch</span>
   <span><img src="https://flagcdn.com/w320/pt.png" alt="Portuguese" width="30" /> Português</span>
+</div>
+
+### **Interested in Learning**
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <span><img src="https://flagcdn.com/w320/gb-wls.png" alt="Welsh" width="30" /> Cymraeg</span>
 </div>
