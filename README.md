@@ -11,8 +11,8 @@ This list is not exhaustive; it shows the skills I consider my strongest.
 ### **Languages**
 <div style="display: flex; gap: 10px; flex-wrap: wrap; width: 100%;">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL-0066CC?logo=database&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Neo4J%20Cypher-006F91?logo=neo4j&logoColor=white" alt="Neo4J Cypher" />
 </div>
 
